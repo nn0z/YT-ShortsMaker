@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+youtube-shorts/
+*.mp4
+*.mkv
+*.webm
+.DS_Store
+Thumbs.db
